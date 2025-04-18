@@ -12,3 +12,6 @@ Technical Fundamentals는 다양한 기술 분야의 근본적인 개념들을 �
 ### 자바
 - [GC](언어/자바/GC.md)
 - [JVM](언어/자바/JVM.md)
+
+## OS
+- [터미널 사용법](운영체제/터미널-사용법.md)
